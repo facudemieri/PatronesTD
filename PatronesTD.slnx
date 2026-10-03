@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Builder - Ejemplo 2/Builder - Ejemplo 2.csproj" />
+  <Project Path="Builder/Builder - Ejemplo 1.csproj" />
+</Solution>
