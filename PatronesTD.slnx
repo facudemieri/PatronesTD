@@ -1,4 +1,6 @@
 <Solution>
-  <Project Path="Builder - Ejemplo 2/Builder - Ejemplo 2.csproj" />
-  <Project Path="Builder/Builder - Ejemplo 1.csproj" />
+  <Project Path="Builder - Ejemplo 2/Builder - Ejemplo 2.csproj" Id="c4b2d900-9983-4f78-bea6-ffbc098bfdcd" />
+  <Project Path="Builder/Builder - Ejemplo 1.csproj" Id="dfae2faa-f39a-4cec-a6c4-690f16ef6d03" />
+  <Project Path="Chain of Responsability - Ejemplo 1/Chain of Responsability - Ejemplo 1.csproj" Id="81f83ec3-d3aa-4176-8c65-1ed6c08b61d1" />
+  <Project Path="Chain of Responsability - Ejemplo 2/Chain of Responsability - Ejemplo 2.csproj" Id="97170501-fdf5-43b3-9e39-3579261abdad" />
 </Solution>
