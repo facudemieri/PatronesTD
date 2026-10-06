@@ -56,7 +56,7 @@ namespace Builder___Ejemplo_2
 
                     // El DIRECTOR ejecuta siempre los mismos pasos
                     GeneradorDeReportes generador = new GeneradorDeReportes(builder);
-                    generador.Generar(titulo, items);
+                    generador.Generar(titulo, items); 
 
                     // El producto se obtiene del BUILDER
                     Reporte reporte = builder.ObtenerReporte();
